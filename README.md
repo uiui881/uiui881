@@ -2,4 +2,4 @@
 
 Education
 
-Ewha womans university B.S (not yet!) 
+Ewha Womans University Computer Engineering (2016.03 ~) 
