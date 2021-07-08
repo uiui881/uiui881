@@ -1,4 +1,4 @@
-👋 Hi, I’m sr1021 
+👋 Hi, I’m uiui881
 
 📚 Education<br>
      &nbsp; B.S in Computer Engineering, Ewha Womans University, South Korea (2016.03 ~ 2021.08)
