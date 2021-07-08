@@ -1,5 +1,15 @@
-### Hi there 👋
+👋 Hi, I’m sr1021 
 
-Education
+📚 Education
+   B.S in Computer Engineering, Ewha Womans University, South Korea (2016.03 ~ 2021.08)
 
-Ewha Womans University Computer Engineering (2016.03 ~) 
+❤️ Careers
+   I can write it down after one month~! YEAH!
+   
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+
+💪 Skills
+
+
+💪 Skills which I've used at least once
