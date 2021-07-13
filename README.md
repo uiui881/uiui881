@@ -8,7 +8,7 @@
    
    
 🔥I'm interested in...<br>
-     &nbsp; smart office, groupware, AR, VR, metaverse
+     &nbsp; smart office, AR, VR, metaverse
 
 💪 Skills<br>
 
