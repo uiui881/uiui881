@@ -15,3 +15,4 @@
 <img src="https://img.shields.io/badge/#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 
 💪 Skills which I've used at least once
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
