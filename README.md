@@ -12,7 +12,7 @@
 
 💪 Skills<br>
 
-<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-
-💪 Skills which I've used at least once
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></img>
+#007396
+💪 Skills which I've used at least once<br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></img></a>
