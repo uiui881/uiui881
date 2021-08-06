@@ -3,13 +3,8 @@
 📚 Education<br>
      &nbsp; B.S in Computer Engineering, Ewha Womans University, South Korea ( 2016.03 ~ 2021.08 )
 
-❤️ Careers<br>
-     &nbsp; Hyundai Autoever, Seoul, South Korea ( 2021.08 ~ )
+❤️ Careers( 2021.08 ~ )
    
-   
-🔥I'm interested in...<br>
-     &nbsp; smart office, AR, VR, metaverse, groupware
-
 💪 Skills<br>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></img>
